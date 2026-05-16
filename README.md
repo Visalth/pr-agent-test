@@ -1,4 +1,4 @@
-# pr-agent-test
+# pr-agent
 
 ## Hello
 
